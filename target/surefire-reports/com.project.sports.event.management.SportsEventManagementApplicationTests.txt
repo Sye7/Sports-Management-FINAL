@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.project.sports.event.management.SportsEventManagementApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.229 s - in com.project.sports.event.management.SportsEventManagementApplicationTests
